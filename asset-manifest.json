@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.26cb2338.css",
+    "main.js": "/static/js/main.da4fb4b5.js",
+    "static/media/kingyru.gif": "/static/media/kingyru.26371d0a2e8670687cfc.gif",
+    "static/media/text-logo.svg": "/static/media/text-logo.bcdcf9eb38cfa46b1f4cb9872dab5aac.svg",
+    "static/media/KZT.svg": "/static/media/KZT.82951a6762c13733add104518f9c9c3a.svg",
+    "static/media/small-logo.svg": "/static/media/small-logo.f491ad8271a06ee4e3fcfd85d48565a6.svg",
+    "static/media/ton_symbol.svg": "/static/media/ton_symbol.6f85f0524d7f9910bbcde159c8665663.svg",
+    "static/media/GBP.svg": "/static/media/GBP.eb60430ab4baab80e292e71fa27f18ed.svg",
+    "static/media/CNY.svg": "/static/media/CNY.696bf0162cff10f8ec623e877589b2ac.svg",
+    "static/media/USD.svg": "/static/media/USD.679fe3c494780983a49c9ccbf6d28035.svg",
+    "static/media/EUR.svg": "/static/media/EUR.fbe24a4c8755750203e686cfb7d4b488.svg",
+    "static/media/icon-link.svg": "/static/media/icon-link.21382d9b71f963361821f21acd612fe1.svg",
+    "index.html": "/index.html",
+    "static/media/RUB.svg": "/static/media/RUB.18c4593cdfcde8912f38a8f40e5904fc.svg",
+    "static/media/UAH.svg": "/static/media/UAH.9c2eccbaf0719cdae3e10f4b1e2bafac.svg",
+    "static/media/BYN.svg": "/static/media/BYN.f67c436dc5c79e639d51e660c42e2248.svg",
+    "main.26cb2338.css.map": "/static/css/main.26cb2338.css.map",
+    "main.da4fb4b5.js.map": "/static/js/main.da4fb4b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26cb2338.css",
+    "static/js/main.da4fb4b5.js"
+  ]
+}
